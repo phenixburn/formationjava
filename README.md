@@ -1,2 +1,2 @@
-La formation Java qui commence
+La formation Java qui commence a partir de demain 
 
